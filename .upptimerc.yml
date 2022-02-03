@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Colegio de Escribanos de Santa Fe 
-    url: https://www.coessfe1.org.ar/portal
+    url: https://www.coessfe1.org.ar/portal/index.php/es/
   - name: Colegio de Escribanos de Rosario
     url: https://escribanos-stafe2da.org.ar
   - name: Ellitoral
