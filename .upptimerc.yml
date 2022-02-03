@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Colegio de Escribanos de Santa Fe 
-    url: https://coessfe1.org.ar
+    url: https://www.coessfe1.org.ar
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
