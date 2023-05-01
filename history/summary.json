@@ -14,7 +14,7 @@
     "timeDay": 80,
     "timeWeek": 87,
     "timeMonth": 89,
-    "timeYear": 99,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -22,9 +22,9 @@
     "url": "https://www.coessfe1.org.ar/portal/index.php/es/",
     "icon": "https://www.coessfe1.org.ar/portal/images/Escudo4.JPG",
     "slug": "colegio-de-escribanos-de-santa-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "97.07%",
+    "uptimeDay": "97.06%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.42%",
