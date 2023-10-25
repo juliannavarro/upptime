@@ -6,16 +6,18 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
+    "time": 114,
     "timeDay": 93,
     "timeWeek": 120,
     "timeMonth": 136,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-25": 0
+    }
   },
   {
     "name": "Colegio de Escribanos de Santa Fe",
