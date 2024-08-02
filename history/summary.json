@@ -24,7 +24,7 @@
     "url": "https://www.coessfe1.org.ar/portal/index.php/es/",
     "icon": "https://www.coessfe1.org.ar/portal/images/Escudo4.JPG",
     "slug": "colegio-de-escribanos-de-santa-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "99.67%",
@@ -36,6 +36,7 @@
     "timeMonth": 1503,
     "timeYear": 1592,
     "dailyMinutesDown": {
+      "2024-08-02": 0,
       "2024-08-01": 16,
       "2024-07-29": 17,
       "2024-07-16": 15,
