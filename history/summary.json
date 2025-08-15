@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 145,
-    "timeWeek": 121,
-    "timeMonth": 112,
+    "timeDay": 204,
+    "timeWeek": 128,
+    "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-07-08": 21
@@ -26,14 +26,14 @@
     "slug": "colegio-de-escribanos-de-santa-fe",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "81.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "99.51%",
-    "time": 1685,
-    "timeDay": 2329,
-    "timeWeek": 1961,
-    "timeMonth": 1721,
+    "uptimeYear": "99.52%",
+    "time": 1686,
+    "timeDay": 1655,
+    "timeWeek": 1996,
+    "timeMonth": 1715,
     "timeYear": 1710,
     "dailyMinutesDown": {
       "2025-08-13": 222,
@@ -61,8 +61,7 @@
       "2024-10-09": 16,
       "2024-10-07": 23,
       "2024-09-20": 18,
-      "2024-08-19": 65,
-      "2024-08-14": 45
+      "2024-08-19": 65
     }
   },
   {
